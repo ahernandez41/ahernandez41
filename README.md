@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="left">About Me:</h3>
+<h3 align="left">ᯓ★ About Me:</h3>
 <p align="left">
 My name is Arianna, and I'm a computer enthusiast who thinks that innovation may lead to a better world. My interest in technology started as a curiosity about how things functioned and has since grown into a love for creating solutions that have an impact on the world. I enjoy working in settings where creativity and teamwork are combined, and I'm constantly willing to pick up new abilities and take on difficult tasks. I enjoy trying out different coffee blends, spending time in my wonderful vegetable garden, and coming up with fresh ideas while I'm not coding.
 </p>
@@ -19,9 +19,9 @@ My name is Arianna, and I'm a computer enthusiast who thinks that innovation may
   <ul>
     <li>Home Barista - I love to create latte and espresso drinks where I can make and drink peacefully at home
       (berries + cream latte is my best drink so far🫐)</li>
-    <li>Gardening - I find food to be more delicious where they're grown straight from the backyard. I enjoy growing herbs and flowers to make bouquets!</li>
-    <li>Digital Art - Drawing and creating stories were one of the first hobbies I developed to have a passion for and its where I share my love for it the most.</li>
-    <li>Gym Rat - Working out and pushing my limits is something that I found to help with stress.</li>
+    <li>Gardening - I find food to be more delicious where they're grown straight from the backyard. I enjoy growing herbs and flowers to make bouquets!💐</li>
+    <li>Digital Art - Drawing and creating stories were one of the first hobbies I developed to have a passion for and its where I share my love for it the most.✎</li>
+    <li>Gym Rat - Working out and pushing my limits is something that I found to help with stress.🎧</li>
   </ul>
 </p>
 
