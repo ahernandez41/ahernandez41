@@ -102,5 +102,5 @@ My name is Arianna, and I'm a computer enthusiast who thinks that innovation may
 
 ---
 
-<h3 align="center">⚛Learning never exhausts the mind.⚛</h3>
+<h3 align="center"> ࿔.⋆★ Find beauty in everything, and you'll never be lost.★⋆.࿔ </h3>
 
