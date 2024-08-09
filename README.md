@@ -82,5 +82,5 @@
 
 ---
 
-<h3 align="center">🌱 Learning never exhausts the mind. </h3>
+<h3 align="center">⚛Learning never exhausts the mind.⚛</h3>
 
