@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I’m Arianna, conjurer of good vibes and happy moments. 🌄</h1>
-<h3 align="center">A devoted coffee aficionado who’s passionate about innovation + technology</h3>
+<h1 align="center">  ˙✧˖° Hello!, I’m Arianna Iris, conjurer of good vibes and happy moments.  ˙✧˖°</h1>
+<h3 align="center"> </> ⋆｡˚A devoted coffee aficionado who’s passionate about innovation + technology⋆｡˚ </> </h3>
 
 - 🔭 I’m currently working on **Generated AI MLT Partner Bot**
 - 🌱 I’m currently learning **Linux, Object Oriented Programming, and TCP servers**
@@ -82,5 +82,5 @@
 
 ---
 
-<h3 align="center">🌱 Learning never exhausts the mind. 🌱</h3>
+<h3 align="center">🌱 Learning never exhausts the mind. </h3>
 
