@@ -17,7 +17,8 @@ My name is Arianna, and I'm a computer enthusiast who thinks that innovation may
 <h3 align="left"> -`♡´- Hobbies:</h3>
 <p align="left">
   <ul>
-    <li> **Home Barista** I love to create latte and espresso drinks where I can make and drink peacefully at home (berries + cream latte is my best drink so far🫐)</li>
+    <li> **Home Barista** I love to create latte and espresso drinks where I can make and drink peacefully at home </li> 
+      <li>(berries + cream latte is my best drink so far🫐)</li>
     <li>**Gardening** Creating minimalist designs that resonate with simplicity and elegance.</li>
     <li>**Digital Art** Exploring new cultures and cuisines, and finding inspiration in the world around me.</li>
     <li>**Gym Rat** Connecting with nature to refresh my mind and body.</li>
