@@ -7,6 +7,25 @@
 
 ---
 
+<h3 align="left">About Me:</h3>
+<p align="left">
+My name is Arianna, and I'm a computer enthusiast who thinks that innovation may lead to a better world. My interest in technology started as a curiosity about how things functioned and has since grown into a love for creating solutions that have an impact on the world. I enjoy working in settings where creativity and teamwork are combined, and I'm constantly willing to pick up new abilities and take on difficult tasks. I enjoy trying out different coffee blends, spending time in my wonderful vegetable garden, and coming up with fresh ideas while I'm not coding.
+</p>
+
+---
+
+<h3 align="left"> -`♡´- Hobbies:</h3>
+<p align="left">
+  <ul>
+    <li> **Home Barista** I love to create latte and espresso drinks where I can make and drink peacefully at home (berries + cream latte is my best drink so far🫐)</li>
+    <li>**Gardening** Creating minimalist designs that resonate with simplicity and elegance.</li>
+    <li>**Digital Art** Exploring new cultures and cuisines, and finding inspiration in the world around me.</li>
+    <li>**Gym Rat** Connecting with nature to refresh my mind and body.</li>
+  </ul>
+</p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/arianna-hernandez-15b9671b0/" target="_blank">
