@@ -17,7 +17,7 @@ My name is Arianna, and I'm an young explorer who thinks that innovation may lea
 <h3 align="left"> -`♡´- Hobbies:</h3>
 <p align="left">
   <ul>
-    <li>Home Barista - I love to create lattes and several espresso drinks where I can make and drink peacefully at home
+    <li>Home Barista - I love to create lattes and several espresso drinks where I can brew and drink peacefully at home
       (berries + cream latte is my best drink so far🫐)</li>
     <li>Gardening - I find food to be more delicious where they're grown straight from the backyard. I enjoy growing herbs and flowers to make bouquets!💐</li>
     <li>Digital Art - Drawing and creating stories were one of the first hobbies I developed to have a passion for and its where I share my love for it the most.✎</li>
