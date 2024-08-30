@@ -1,5 +1,5 @@
 <h1 align="center">  ˙✧ Welcome!, my name is Arianna Hernandez ˙✧</h1>
-<h3 align="center"> </> ⋆｡˚A devoted coffee aficionado who’s passionate about innovation + technology⋆｡˚ </> </h3>
+<h3 align="center"> </> ⋆｡A devoted coffee aficionado who’s passionate about innovation + technology⋆｡ </> </h3>
 
 - 🔭 I’m currently working on **Generated AI MLT Partner Bot**
 - 🌱 I’m currently learning **Linux, Object Oriented Programming, and TCP servers**
