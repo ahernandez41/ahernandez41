@@ -1,8 +1,6 @@
 <h1 align="center">  ˙✧ Welcome!, my name is Arianna Hernandez ˙✧</h1>
 <h3 align="center"> </> ⋆｡A devoted coffee aficionado who’s passionate about innovation + technology⋆｡ </> </h3>
 
-- 🔭 I’m currently working on **Generated AI MLT Partner Bot, Server API Bot, Redis Database**
-- 🌱 I’m currently learning **Computer Organization, Computer Network Fundamentals, Computability and Formal Languages**
 - 📫 How to reach me: **ari.hernandez0010@gmail.com**
 
 ---
