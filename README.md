@@ -7,18 +7,7 @@
 
 <h3 align="left">ᯓ★ About Me:</h3>
 <p align="left">
-My name is Arianna, and i believe that innovation may lead to a better world. My interest in technology started as a curiosity about how things functioned and has since grown into a love for creating solutions that have an impact on the world. I enjoy working in settings where creativity and teamwork are combined, and I'm constantly willing to pick up new abilities and take on difficult tasks. I enjoy trying out different coffee blends, spending time in my vegetable garden, and love meeting new people in the comp. sci field while I'm not coding.
-</p>
-
----
-
-<h3 align="left"> -`♡´- Hobbies:</h3>
-<p align="left">
-  <ul>
-    <li>Home Barista - I love to create lattes and several espresso drinks where I can brew and drink peacefully at home.</li>
-    <li>Gardening - I find food to be more delicious where they're grown straight from the backyard.</li>
-    <li>Digital Art - Drawing and creating stories were one of the first hobbies I developed to have a passion for and its where I share my love for it the most.</li>
-  </ul>
+My name is Arianna, and i believe that innovation may lead to a better world. My interest in technology started as a curiosity about how things functioned and has since grown into a love for creating solutions that have an impact on the world. I enjoy working in settings where creativity and teamwork are combined, and I'm constantly willing to pick up new abilities and take on difficult tasks.
 </p>
 
 ---
