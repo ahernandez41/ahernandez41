@@ -31,9 +31,6 @@ My name is Arianna, and i believe that innovation may lead to a better world. My
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30" style="filter: grayscale(100%);"/>
   </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30" height="30" style="filter: grayscale(100%);"/>
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30" style="filter: grayscale(100%);"/>
   </a>
